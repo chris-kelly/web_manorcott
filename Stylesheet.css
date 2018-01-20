@@ -1,0 +1,116 @@
+.bannerbackground
+{
+    background-color:#44546A; border-style: none none solid none; border-bottom-width: thin; border-bottom-color: #999999;
+}
+.background
+{
+    background-color:#FFFFFF; border-style: none;
+}
+.logo
+{
+   font-family:"Baskerville Old Face"; font-size: 25pt; font-weight: bold; color: #FFFFFF;
+}
+
+.bask
+{
+	font-family:"Baskerville Old Face"; color: #44546A; margin-bottom: 5px
+}
+
+.menulinksselect
+{
+    font-family: calibri; font-size: 11pt; font-weight: bold; text-decoration: none; text-align: center; color:#FFFFFF
+}
+
+.whitecalib
+{
+    font-family:"Calibri Light"; font-size: 11pt; font-weight: normal; color:white;
+}
+
+.blackcalib
+{
+    font-family: "Calibri Light"; font-size: 11pt; color: #000000;
+}
+
+.blackcaliblist
+{
+    font-family: "Calibri Light"; font-size: 11pt; color: #000000; padding-top: 0px; margin-top: 0px
+}
+
+.blackcalibsm
+{
+    font-family: "Calibri Light"; font-size: 9pt; color: #000000; padding-top: 0px
+}
+
+
+.bluecalib
+{
+    font-family: calibri; font-size: 11pt; color: #00B0F0;
+}   
+.greycalib
+{
+    font-family: "Calibri Light"; font-size: 9pt; font-weight: normal; color: #333333;
+}
+.borderless
+{
+    margin-top: 0px; margin-bottom: 0px;
+}
+.cityscene
+{
+    background-image: url("../Images/cityscapereal.png");
+    background-repeat: no-repeat;
+}
+.cityscenedim
+{
+    background-image: url('../Images/cityscaperealdim.png');
+    background-repeat: no-repeat;
+}
+
+.whitepic
+{
+    background-image: url('../Images/whitepic.png');
+    background-repeat: no-repeat;
+}
+.title
+{
+    font-family: calibri; font-size: 20pt; color:black; padding: 0px 65px 0px 40px;
+}
+.subtitle
+{
+    font-family: cambria; font-size: 14pt; font-weight: bold; text-transform: capitalize; color: #FFFFFF; background-color:#385774; border: thin solid #999999; text-decoration: none; text-align:center
+}
+a:hover
+{
+    text-decoration: underline;
+}
+a:link
+{
+    color: #00B0F0; text-decoration: none; 
+}
+
+a:visited
+{
+    font-family: calibri; font-size: 11pt; color: #00B0F0; text-decoration: none; text-align: center;
+}
+
+
+.whitebox
+{
+    font-family: calibri;
+    font-size: 11pt;
+    color: #333333;
+    background-color: #FFFFFF;
+    border: thin solid #999999;
+    padding: 12px;
+}
+
+.portraitstyle
+{
+    width: 144px;
+    height: 180px;
+}
+
+.linkedin
+        {
+            width: 27px;
+            height: 27px;
+        }
